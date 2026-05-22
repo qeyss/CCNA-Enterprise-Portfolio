@@ -1,0 +1,8 @@
+# Fichiers système et temporaires
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Sauvegardes automatiques Packet Tracer si existantes
+*.bak
